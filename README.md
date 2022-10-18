@@ -18,5 +18,5 @@ An education company named X Education sells online courses to industry professi
 - Assignment Subjective Questions.pdf : Some subjective questions answered
 - Lead_Score_CaseStudy_Swaroopini_Harshita.pdf : Final Presentation
 - Lead_Score_Summary.pdf : Summary on what's done in the entire py file
-- Leads.csv : Leads dataset provide
+- Leads.csv : Leads dataset provided
 - Leads Data Dictionary.xlsx : Data Dictionary provided
